@@ -25,7 +25,8 @@ It helps stakeholders understand sales trends, revenue distribution, and custome
 
 ## Screenshots
 
-![Screenshot 2025-01-12 212617](https://github.com/user-attachments/assets/da7998ec-c57a-4acc-9c43-44599d567748)
+
+![Screenshot 2025-01-12 212617](https://github.com/user-attachments/assets/053f2ef0-c7e8-4618-abbe-56d9d581e61d)
 
 
 ## Insights
